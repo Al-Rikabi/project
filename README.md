@@ -4,4 +4,5 @@
 ### Pages
 * home
 * post
-* posts
+* posts > Here you will find all the posts
+
