@@ -1,3 +1,0 @@
-pip install virtualenv
-virtualenv <project name>
-source <project name>/bin/activate
